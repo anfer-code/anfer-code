@@ -36,7 +36,7 @@
 <br />
 
 ---
-<img align="left" alt ="anfer-code's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anfer-code&show_icons=true">
+<img align="left" alt ="anfer-code's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anfer-code&theme=algolia&show_icons=true">
 
 
 [website]: https://codeSTACKr.com
