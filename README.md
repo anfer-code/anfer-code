@@ -2,11 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/valeraanfer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodr&screen_name=valeraanfer)
 
-## I'm a Frontend Developer and Criptofan!!!
+## I'm a Frontend Developer!!!
 
 - 🧑🏽‍💻 Learning the MERN Stack
 - 🔭 I'm a [PRO level Student at Platzi](https://platzi.com/p/anferValera/)!
-- 🥅 2021 Goals: Find my first job as a Frontend Developer!
+- 🥅 2022 Goals: Find my first job as a Frontend Developer!
 - ⚡ Fun fact: I love to dance and talk about anime in [my twitter.](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodr&screen_name=valeraanfer)
 
 ### Connect with me:
